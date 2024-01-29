@@ -1,0 +1,8 @@
+langchain 
+unstructured[all-docs] 
+pydantic 
+lxml 
+langchainhub 
+#fastapi 
+#kaleido 
+#uvicorn
