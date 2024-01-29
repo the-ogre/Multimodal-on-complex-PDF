@@ -15,6 +15,7 @@ from fastapi.templating import Jinja2Templates
 from fastapi.encoders import jsonable_encoder
 from fastapi.middleware.cors import CORSMiddleware
 import json
+
 from dotenv import load_dotenv
 load_dotenv()
 
