@@ -1,4 +1,4 @@
-faiss-cpu
+faiss-gpu
 langchain
 openai
 python-dotenv
@@ -7,3 +7,11 @@ jinja2
 python-multipart
 uvicorn
 tiktoken
+unstructured[all-docs] 
+pydantic 
+lxml 
+tesseract 
+pytesseract
+tensorflow-probability 
+imageio 
+pillow
