@@ -15,3 +15,7 @@ pytesseract
 tensorflow-probability 
 imageio 
 pillow
+pyngrok
+chromadb 
+tiktoken 
+opencv-python
